@@ -74,13 +74,7 @@ public:
                 q.push({nx, ny});
             }
         }
-       
-        for (int i = 0; i < n; i++)
-            {
-                for (int j = 0; j < m; j++)
-                    std::cout << grid[i][j] << " ";
-                std::cout << "\n";
-            }
+
         return answer;
     }
 };
