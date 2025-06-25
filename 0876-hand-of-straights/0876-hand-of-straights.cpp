@@ -1,36 +1,35 @@
 class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int groupSize) {
-        if (hand.size() % groupSize != 0) return false;
-
-        vector<vector<int>> groups;
         sort(hand.begin(), hand.end());
-        for (auto card : hand)
+        list<int> l(hand.begin(), hand.end());
+        vector<int> v;
+
+        for (int i = 0; i < hand.size(); i++)
         {
-            bool isFounded = false;
-            for (auto& group : groups)
+            for (auto it = l.begin(); it != l.end(); it++)
             {
-                if (!group.empty() && group.back() == card - 1 && group.size() != groupSize)
+                if (v.empty())
                 {
-                    group.push_back(card);
-                    isFounded = true;
+                    v.push_back(*it);
+                    l.erase(it);
+                    if (v.size() == groupSize) v.clear();
                     break;
                 }
-            }
-
-            if (!isFounded) 
-            {
-                vector<int> newGroup;
-                newGroup.push_back(card);
-                groups.push_back(newGroup);
+                else
+                {
+                    if (v.back() == *it - 1)
+                    {
+                        v.push_back(*it);
+                        l.erase(it);
+                        if (v.size() == groupSize) v.clear();
+                        break;
+                    }
+                }
             }
         }
-
-        for (auto group : groups)
-        {
-            if (group.size() != groupSize) return false;
-        }
-
-        return true;
+        
+        if (v.empty() && l.empty()) return true;
+        else return false;
     }
 };
