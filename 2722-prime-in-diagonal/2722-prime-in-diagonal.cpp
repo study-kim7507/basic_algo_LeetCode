@@ -14,15 +14,11 @@ public:
         int n = nums.size();
         for (int i = 0; i < n; i++)
         {
-            for (int j = 0; j < n; j++)
-            {
-                if (i == j || i + j == n - 1)
-                {
-                    if (nums[i][j] <= 1) continue;  // 1은 소수가 아님
-                    if (nums[i][j] != 2 && nums[i][j] % 2 == 0) continue;   // 2를 제외한 짝수는 소수가 될 수 없음
-                    candi.insert(nums[i][j]);
-                }
-            }
+            int num1 = nums[i][i];
+            int num2 = nums[i][n - 1 - i];
+
+            if (num1 >= 2 && (num1 == 2 || (num1 != 2 && num1 % 2 != 0))) candi.insert(num1);
+            if (num2 >= 2 && (num2 == 2 || (num2 != 2 && num2 % 2 != 0))) candi.insert(num2);
         }
 
         int answer = INT_MIN;
