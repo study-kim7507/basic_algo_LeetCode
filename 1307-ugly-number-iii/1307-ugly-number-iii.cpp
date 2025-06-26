@@ -10,9 +10,9 @@ public:
             long long mid = (r + l) / 2;
             int cnt = 
             mid / a + mid / b + mid / c 
-            - mid / (a * b / __gcd(a, b)) 
-            - mid / (a * c / __gcd(a, c))
-            - mid / (b * c / __gcd(b, c))
+            - mid / (a * b / gcd(a, b)) 
+            - mid / (a * c / gcd(a, c))
+            - mid / (b * c / gcd(b, c))
             + mid / lcm(a, lcm(b, c));
             if (cnt >= n)
             {
