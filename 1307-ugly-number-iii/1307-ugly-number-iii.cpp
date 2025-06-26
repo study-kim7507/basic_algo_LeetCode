@@ -7,7 +7,7 @@ public:
         int answer = 0;
         while (l <= r)
         {
-            long long mid = l + (r - l) / 2;
+            long long mid = (r + l) / 2;
             int cnt = 
             mid / a + mid / b + mid / c 
             - mid / (a * b / __gcd(a, b)) 
