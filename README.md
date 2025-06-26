@@ -59,9 +59,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0874-backspace-string-compare](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0874-backspace-string-compare) |
 | [3738-make-array-non-decreasing](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [3738-make-array-non-decreasing](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3738-make-array-non-decreasing) |
+## Two Pointers
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0874-backspace-string-compare) |
+## String
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
