@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0874-backspace-string-compare) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Simulation
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Ordered Set
 |  |
 | ------- |
