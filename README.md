@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0876-hand-of-straights](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0876-hand-of-straights) |
 | [0971-shortest-bridge](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0971-shortest-bridge) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0264-ugly-number-ii) |
 | [0876-hand-of-straights](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0876-hand-of-straights) |
 ## Greedy
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
