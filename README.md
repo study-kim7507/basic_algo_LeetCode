@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2722-prime-in-diagonal](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2845-find-the-value-of-the-partition](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2845-find-the-value-of-the-partition) |
+| [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
 | [3738-make-array-non-decreasing](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Math
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0264-ugly-number-ii) |
+| [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,4 +105,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1307-ugly-number-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1307-ugly-number-iii) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
