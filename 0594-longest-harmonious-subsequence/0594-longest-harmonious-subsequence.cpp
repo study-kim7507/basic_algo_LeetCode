@@ -16,7 +16,7 @@ public:
             if (window.front() != window.back())
                 ans = max(ans, (int)window.size());
 
-            std::cout << nums[i] << " " << ans << "\n";
+            // std::cout << nums[i] << " " << ans << "\n";
         }
         return ans;
     }
