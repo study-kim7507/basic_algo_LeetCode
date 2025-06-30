@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0264-ugly-number-ii) |
 | [1307-ugly-number-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1307-ugly-number-iii) |
 | [2722-prime-in-diagonal](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2722-prime-in-diagonal) |
+| [2812-find-the-maximum-achievable-number](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Matrix
 |  |
 | ------- |
