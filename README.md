@@ -60,15 +60,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0971-shortest-bridge](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0971-shortest-bridge) |
 | [1396-count-servers-that-communicate](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0971-shortest-bridge](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0971-shortest-bridge) |
 | [1396-count-servers-that-communicate](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union Find
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Counting
 |  |
 | ------- |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
+## Graph
+|  |
+| ------- |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
