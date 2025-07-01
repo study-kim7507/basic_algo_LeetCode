@@ -1,63 +1,44 @@
-int parent[100001];
-int cnt[100001];
-
 class Solution {
 public:
-
-    int find(int x)
-    {
-        if (x != parent[x]) return parent[x] = find(parent[x]);
-        return x;
-    }
-
-    void uf_union(int x, int y)
-    {
-        x = find(x);
-        y = find(y);
-
-        if (x == y) return;
-
-        if (x < y) 
-        {
-            parent[y] = x;
-            cnt[x] += cnt[y];
-        }
-        else 
-        {
-            parent[x] = y;
-            cnt[y] += cnt[x];
-        }
-    }
-
     long long countPairs(long long n, vector<vector<int>>& edges) {
-        long long ans = (long long)(n * (n - 1) / 2);
-        
-        for (int i = 0; i < n; i++)
-        {
-            parent[i] = i;
-            cnt[i] = 1;
-        }
-            
+        long long ans = n * (n - 1) / 2;
 
+        vector<vector<int>> adjs(n, vector<int>());
         for (auto edge : edges)
         {
             int u, v;
             u = edge[0];
             v = edge[1];
+            adjs[u].push_back(v);
+            adjs[v].push_back(u);
+        }
 
-            if (find(u) != find(v))
-                uf_union(u, v);
-        }    
+        vector<bool> vis(n, false);
+         
         for (int i = 0; i < n; i++)
         {
-            if (parent[i] == i)
+            if (vis[i]) continue; 
+               
+            queue<int> q;
+            q.push(i);
+            vis[i] = true;
+
+            long long cnt = 0;
+            while (!q.empty())
             {
-                long long size = (long long)cnt[i];
-                ans -= size * (size - 1) / 2;
-            } 
+                auto cur = q.front(); q.pop();
+                cnt++;
+                for (auto nxt : adjs[cur])
+                {
+                    if (vis[nxt]) continue;
+                    vis[nxt] = true;
+                    q.push(nxt);
+                }
+            }
+
+            ans -= cnt * (cnt - 1) / 2;
         }
-            
-        
+
         return ans;
     }
 };
