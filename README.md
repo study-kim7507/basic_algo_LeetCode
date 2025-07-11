@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2722-prime-in-diagonal](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2722-prime-in-diagonal) |
 | [2845-find-the-value-of-the-partition](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0876-hand-of-straights](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0876-hand-of-straights) |
+| [2479-meeting-rooms-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0876-hand-of-straights](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0876-hand-of-straights) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2845-find-the-value-of-the-partition](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Depth-First Search
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0874-backspace-string-compare) |
+| [2479-meeting-rooms-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0264-ugly-number-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
 ## Binary Search
 |  |
