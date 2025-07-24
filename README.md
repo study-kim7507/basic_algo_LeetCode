@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0053-maximum-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0503-next-greater-element-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0264-ugly-number-ii) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## Heap (Priority Queue)
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
