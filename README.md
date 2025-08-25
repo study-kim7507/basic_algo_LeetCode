@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3738-make-array-non-decreasing](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3738-make-array-non-decreasing) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Math
 |  |
 | ------- |
@@ -202,10 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Recursion
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
