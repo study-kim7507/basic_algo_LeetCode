@@ -1,8 +1,6 @@
 class Solution {
 public:
     bool checkEqualPartitions(vector<int>& nums, long long target) {
-        if (target < *min_element(nums.begin(), nums.end())) return false;
-
         int n = nums.size();
         for (int i = 1; i < n; i++)
         {
@@ -12,26 +10,15 @@ public:
             
             do
             {
-                bool isCan = true;
-                long long selected = target;
-                long long unSelected = target;
+                __int128 selected = 1;
+                __int128 unSelected = 1;
                 
                 for (int i = 0; i < forCombi.size(); i++)
                 {
-                    if (forCombi[i] == 0 && unSelected % nums[i] == 0) unSelected /= nums[i];
-                    else if (forCombi[i] == 1 && selected % nums[i] == 0) selected /= nums[i];  
-                    else
-                    {
-                        isCan = false;
-                        break;
-                    }   
+                    if (forCombi[i] == 0) unSelected *= nums[i];
+                    else selected *= nums[i];              
                 }
-                if (isCan && unSelected == selected) 
-                {
-                    // td::cout << unSelected << "\n";
-                    return true;
-                }
-            
+                if (unSelected == selected && selected == target) return true;
             } while(next_permutation(forCombi.begin(), forCombi.end()));
         }
 
