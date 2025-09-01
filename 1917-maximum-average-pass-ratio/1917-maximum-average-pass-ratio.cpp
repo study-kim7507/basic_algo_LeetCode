@@ -47,8 +47,6 @@ public:
         while (!pq.empty())
         {
             auto cur = pq.top(); pq.pop();
-
-            std::cout << cur[0] << " " << cur[1] << "\n";
             ans += (double)cur[0] / cur[1]; 
         }
 
