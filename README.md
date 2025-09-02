@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0876-hand-of-straights](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0876-hand-of-straights) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2479-meeting-rooms-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 ## Greedy
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1396-count-servers-that-communicate](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0874-backspace-string-compare) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3617-find-the-original-typed-string-i) |
