@@ -15,9 +15,6 @@ public:
 
         // 1. x값이 작고, y값이 큰 것을 기준으로 내림차순 정렬
         sort(points.begin(), points.end(), cmp);
-            
-        for (auto e : points)
-            std::cout << e[0] << " " << e[1] << "\n";
 
         for (int i = 0; i < n; i++)
         {
