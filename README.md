@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3830-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
