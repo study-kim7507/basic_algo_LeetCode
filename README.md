@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0264-ugly-number-ii) |
 | [0909-stone-game](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0909-stone-game) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0202-happy-number](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0202-happy-number) |
 | [0874-backspace-string-compare](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
