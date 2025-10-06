@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0695-max-area-of-island](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0876-hand-of-straights](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0876-hand-of-straights) |
 | [0909-stone-game](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0909-stone-game) |
 | [0971-shortest-bridge](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0971-shortest-bridge) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0971-shortest-bridge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0971-shortest-bridge) |
 | [1396-count-servers-that-communicate](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0971-shortest-bridge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1396-count-servers-that-communicate](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Counting
@@ -191,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0264-ugly-number-ii) |
+| [0794-swim-in-rising-water](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2479-meeting-rooms-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -198,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1307-ugly-number-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1307-ugly-number-iii) |
 ## Combinatorics
 |  |
