@@ -2,10 +2,13 @@ class Solution {
 public:
     bool isAnagram(string s1, string s2)
     {
-        sort(s1.begin(), s1.end());
-        sort(s2.begin(), s2.end());
+        unordered_map<char, int> um_s1;
+        unordered_map<char, int> um_s2;
 
-        return s1 == s2;
+        for (auto e : s1) um_s1[e]++;
+        for (auto e : s2) um_s2[e]++;
+
+        return um_s1 == um_s2;
     }
 
     vector<string> removeAnagrams(vector<string>& words) {
