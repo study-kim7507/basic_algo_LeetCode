@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3738-make-array-non-decreasing](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3738-make-array-non-decreasing) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2722-prime-in-diagonal](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2722-prime-in-diagonal) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Number Theory
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0909-stone-game) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
