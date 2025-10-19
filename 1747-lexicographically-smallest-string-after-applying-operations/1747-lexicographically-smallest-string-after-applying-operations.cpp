@@ -27,11 +27,10 @@ public:
         dfs(newString1, a, b);
 
         // operation : rotate
-       int len = curString.size();
-        int rot = b % len;
-        string prefix = curString.substr(0, len - rot);
-        string postfix = curString.substr(len - rot);
+        string prefix = curString.substr(0, b);
+        string postfix = curString.substr(b);
         string newString2 = postfix + prefix;
+
         dfs(newString2, a, b);
     }
 
