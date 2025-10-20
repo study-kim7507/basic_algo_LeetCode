@@ -1,57 +1,26 @@
 class Solution {
 public:
     int longestPalindrome(vector<string>& words) {
+        unordered_map<string, int> um;
+        for (string word : words)
+            um[word]++;
+
         int ans = 0;
-        int n = words.size();
-
-        unordered_map<string, int> um1;       
-        unordered_map<string, int> um2;
-
-        for (auto word : words)
+        bool isAlreadyPalindrome = false;
+        for (auto [w, f] : um)
         {
-            if (word[0] == word[1]) um2[word]++;
-            else um1[word]++;
-        }
+            string r = w;
+            reverse(r.begin(), r.end());
 
-        for (auto it = um1.begin(); it != um1.end(); it++)
-        {
-            string curString, curStringRev;
-            curString = curStringRev = it->first;
-            reverse(curStringRev.begin(), curStringRev.end());
-
-            int m = min(um1[curString], um1[curStringRev]); 
-            ans += (m * 2);
-            um1[curString] -= m;
-            um1[curStringRev] -= m;
-        }
-
-        for (auto it = um2.begin(); it != um2.end(); it++)
-        {
-            if (it->second != 1)
+            if (w == r)
             {
-                int m = it->second;
-                if (m % 2 == 0) 
-                {
-                    ans += m;
-                    it->second -= m;
-                }
-                else if (m % 2 == 1)
-                {
-                    ans += (m - 1);
-                    it->second -= (m - 1);
-                }
+                ans += (f / 2) * 4;
+                if (f % 2 == 1) isAlreadyPalindrome = true;
             }
+            else if (w < r && um.count(r)) ans += (min(f, um[r]) * 4);
         }
-        
-        for (auto it = um2.begin(); it != um2.end(); it++)
-        {
-            if (it->second != 0) 
-            {
-                ans++;
-                break;
-            }
-        }
-        
-        return ans * 2;
+
+        if (isAlreadyPalindrome) ans += 2;
+        return ans;
     }
 };
