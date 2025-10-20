@@ -1,22 +1,27 @@
 class Solution {
 public:
-    int matchPlayersAndTrainers(vector<int>& players, vector<int>& trainers) {        
+    int matchPlayersAndTrainers(vector<int>& players, vector<int>& trainers) {
+        sort(players.begin(), players.end());
         sort(trainers.begin(), trainers.end());
-        priority_queue<int, vector<int>, greater<int>> pq;
-        for (auto player : players)
-            pq.push(player);
-            
-        int n = trainers.size();
+
         int ans = 0;
-        for (int i = 0; i < n; i++)
-        {   
-            if (pq.empty()) break;
-            if (pq.top() <= trainers[i])
+
+        int tLength = trainers.size();
+        int pLength = players.size();
+
+        int tIdx = 0;
+        int pIdx = 0;
+
+        for (tIdx = 0; tIdx < tLength; tIdx++)
+        {
+            if (pIdx == pLength) break;
+            if (players[pIdx] <= trainers[tIdx])
             {
-                pq.pop();
                 ans++;
+                pIdx++;
             }
         }
+
         return ans;
     }
 };
