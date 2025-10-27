@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Simulation
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Divide and Conquer
