@@ -1,66 +1,28 @@
 class Solution {
 public:
-    int bfs(int stIdx, int stDir, vector<int> nums, int cnt)
-    {
-        int n = nums.size();
-        queue<pair<int, int>> q;
-        q.push({stIdx, stDir});
-
-        while (!q.empty())
-        {
-            int curIdx, curDir;
-            tie(curIdx, curDir) = q.front(); q.pop();
-            
-            // 왼쪽 이동
-            if (curDir == 0)
-            {
-                curIdx--;
-                while (curIdx >= 0 && nums[curIdx] == 0)
-                    curIdx--;
-                if (curIdx >= 0)
-                {
-                    nums[curIdx]--;
-                    cnt--;
-
-                    q.push({curIdx, 1});
-                }
-            } 
-            // 오른쪽 이동
-            else if (curDir == 1)
-            {
-                curIdx++;
-                while(curIdx < nums.size() && nums[curIdx] == 0)
-                    curIdx++;
-                if (curIdx < nums.size())
-                {
-                    nums[curIdx]--;
-                    cnt--;
-
-                    q.push({curIdx, 0});
-                }
-            }
-        }
-        
-        if (cnt == 0) return 1;
-        return 0;
-    }
-
     int countValidSelections(vector<int>& nums) {
         int n = nums.size();
-        int cnt = 0;
-        for (auto num : nums)
-            if (num != 0) cnt += num;
+        vector<int> leftSum(n, 0);
+        vector<int> rightSum(n, 0);
+
+        for (int i = 1; i < n; i++)
+            leftSum[i] += (leftSum[i - 1] + nums[i - 1]);
+        for (int i = n - 2; i >= 0; i--)
+            rightSum[i] += (rightSum[i + 1] + nums[i + 1]);
 
         int ans = 0;
         for (int i = 0; i < n; i++)
         {
-            if (nums[i] == 0)
-            {
-                ans += bfs(i, 0, nums, cnt);
-                ans += bfs(i, 1, nums, cnt);
-            }
+            if (nums[i] != 0) continue;
+
+            // 양쪽의 합이 모두 같은 경우, 어느 방향으로 시작해도 조건을 만족시킬 수 있음
+            if (leftSum[i] == rightSum[i]) ans += 2;
+
+            // 양쪽의 합의 차이가 1이 나는 경우, 더 합이 더 큰 방향으로 시작하면 조건을 만족시킬 수 있음
+            else if (abs(leftSum[i] - rightSum[i]) == 1) ans += 1; 
         }
 
+    
         return ans;
     }
 };
