@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1917-maximum-average-pass-ratio](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1307-ugly-number-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1307-ugly-number-iii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2478-longest-nice-subarray](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
