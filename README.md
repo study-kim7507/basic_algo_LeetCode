@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3336-water-bottles-ii) |
 | [3568-find-the-key-of-the-numbers](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3830-find-closest-person) |
 ## Matrix
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2478-longest-nice-subarray) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## Recursion
 |  |
