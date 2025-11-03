@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1396-count-servers-that-communicate](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1917-maximum-average-pass-ratio](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0876-hand-of-straights) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0874-backspace-string-compare) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0264-ugly-number-ii) |
 | [0806-domino-and-tromino-tiling](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0909-stone-game](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0909-stone-game) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
