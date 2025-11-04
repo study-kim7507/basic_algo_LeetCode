@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0876-hand-of-straights) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0909-stone-game](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0909-stone-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1307-ugly-number-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1307-ugly-number-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
