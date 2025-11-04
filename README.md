@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2479-meeting-rooms-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
