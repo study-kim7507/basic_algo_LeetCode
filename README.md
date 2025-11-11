@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0474-ones-and-zeroes](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0165-compare-version-numbers](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0165-compare-version-numbers) |
 | [0387-first-unique-character-in-a-string](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0874-backspace-string-compare](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0874-backspace-string-compare) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0264-ugly-number-ii) |
+| [0474-ones-and-zeroes](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0806-domino-and-tromino-tiling](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0909-stone-game](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0909-stone-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
