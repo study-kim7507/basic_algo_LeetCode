@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2722-prime-in-diagonal](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2722-prime-in-diagonal) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2845-find-the-value-of-the-partition](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2845-find-the-value-of-the-partition) |
 | [2868-continuous-subarrays](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2868-continuous-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2722-prime-in-diagonal](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2722-prime-in-diagonal) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-maximum-achievable-number](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1307-ugly-number-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1307-ugly-number-iii) |
 | [2722-prime-in-diagonal](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2722-prime-in-diagonal) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
