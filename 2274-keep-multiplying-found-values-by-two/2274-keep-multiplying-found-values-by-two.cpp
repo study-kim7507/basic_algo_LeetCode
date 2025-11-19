@@ -1,19 +1,17 @@
 class Solution {
 public:
     int findFinalValue(vector<int>& nums, int original) {
-        sort(nums.begin(), nums.end());
+        unordered_set<int> us;
+        for (const int& num : nums)
+            us.insert(num);
 
         int ans = original;
-
         while (true)
         {
-            auto lb = lower_bound(nums.begin(), nums.end(), ans);
-            if (lb == nums.end()) break;
-            if (lb != nums.end() && *lb != ans) break;
-
+            if (us.find(ans) == us.end()) break;
             ans *= 2;
         }
-
+        
         return ans;
     }
 };
