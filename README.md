@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/0909-stone-game) |
 | [1307-ugly-number-iii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1307-ugly-number-iii) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/study-kim7507/basic_algo_LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
